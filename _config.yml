@@ -1,0 +1,28 @@
+name: Eugenio Wilman
+favicon: null
+layout_spectrum: 0.15945700788870454
+typography_spectrum: 0.839889891911298
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3457754338160157
+  lightness: 0.3826879991684109
+  saturation: 0.7198143643327057
+  rhythmicContrast: 0.06429730588570237
+purpose: []
