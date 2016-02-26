@@ -1,7 +1,7 @@
-name: Eugenio Wilman
+name: EmotionWorks
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.18552
+layout_spectrum: 0.95956
+typography_spectrum: 0.19839
 title: 'Corporate Photography & Video production'
 cta:
   domain: null
@@ -18,11 +18,11 @@ opengraph:
 color:
   brandColors:
     - '#000000'
-    - '#212121'
-    - '#858583'
-    - '#424242'
-    - '#d9d9d7'
-  brandStrength: 0.6875
+    - '#ef9233'
+    - '#565857'
+    - '#8a8e91'
+    - '#af6629'
+  brandStrength: 0.25
   lightness: 0.375
   saturation: 0.625
   rhythmicContrast: 0.25
